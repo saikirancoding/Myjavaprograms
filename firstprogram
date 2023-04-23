@@ -1,7 +1,14 @@
 class Test
  {
+ 
+ void add()
+ {
+  System.out.println("Add two numbers");
+ }
   public static void main(String []args)
   {
     System.out.println("hello world");
   }
 }
+
+
