@@ -5,6 +5,11 @@ class Test
  {
   System.out.println("Add two numbers");
  }
+ 
+ void mul()
+ {
+ System.out.println("multiply");
+ }
   public static void main(String []args)
   {
     System.out.println("hello world");
