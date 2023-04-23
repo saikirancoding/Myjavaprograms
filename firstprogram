@@ -4,11 +4,17 @@ class Test
  void add()
  {
   System.out.println("Add two numbers");
+  
  }
  
  void mul()
  {
  System.out.println("multiply");
+ }
+ 
+ void div()
+ {
+   System.out.println("changed in division");
  }
   public static void main(String []args)
   {
